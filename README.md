@@ -1,7 +1,7 @@
-## BOT IRFAN X NINDA
+## BOT BEASTARS × PUTRA
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-DONASI : 082286425538 (GOPAY & PULSA)
+DONASI : 085719448074 (GOPAY & PULSA)
 </div>
 
 ## Getting Started
@@ -12,8 +12,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/irfnadi/BotRdp
-> cd BotRdp
+> git clone https://github.com/sarhanah/Sasilove
+> cd Sasilove
 ```
 
 Install the dependencies:
@@ -72,7 +72,7 @@ pls dont remove my github link:)
 | Downloader |Yes|
 | ------------- | ------------- |
 | Instagram |✅|
-| Youtube Music |✅|
+| Youtube Music |❌|
 | Youtube Video |✅|
 
 | Primbon |Yes|
@@ -83,13 +83,13 @@ pls dont remove my github link:)
 | Searchs |Yes|
 | ------------- | ------------- |
 | Images |✅|
-| Subreddit |✅|
+| Subreddit |❌|
 | Resep makanan |✅|
 | Stalk IG |✅|
 | Wikipedia |✅|
 | Cuaca |✅|
 | Chord musik |✅|
-| Lirik musik |✅|
+| Lirik musik |❌|
 | Screen Crot!|✅|
 | Play music|✅|
 | whats anime?|✅|
@@ -154,6 +154,6 @@ Fix Stuck on linux, install google chrome stable:
 ```
 
 ## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
+- [Wa-automate](https://github.com/open-wa/wa-automate-nodejs)
 - [YogaSakti](https://github.com/YogaSakti/imageToSticker)
 - [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
